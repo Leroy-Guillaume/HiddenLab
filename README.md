@@ -2,7 +2,6 @@
 <h1>Comment redéployer notre projet à partir des sources ?</h1>
 <hr>
 Tout d’abord, importez le code depuis ce dépôt GitHub <br>
-Le site est aussi disponible sur https://hiddenlab.xyz/ avec une page leaderboard fonctionnelle, liée à une base de données.<br>
 Ensuite, ouvrez le dossier dans un serveur local (comme XAMPP par exemple) et vous arriverez sur la page d’accueil du site. Pour mettre en place le classement (page leaderboard), vous devrez créer une base de données locale et la lier à la page web. Pour ce faire, suivez les instructions suivantes :<br>
 <h1>Comment utiliser notre projet ?</h1>
 <hr>
